@@ -64,5 +64,45 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-trendsmcp-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://trendsmcp.ai/
+Trends MCP provides a unified MCP server and API that delivers live trend data across dozens of platforms—including Google Search, YouTube, TikTok, Reddit, Amazon, Wikipedia, and more—to AI assistants and agents. With a single API key, developers can query normalized trend metrics without managing individual platform credentials. The service offers a free tier of 100 requests per month and paid plans for higher volume, and supports up to five years of weekly historical data.
+
+**Areas:** AI · Trends · Data · Analytics · MCP · Company
+
+## trendsmcp-ai on APIs.io
+
+Everything profiled for trendsmcp-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/trendsmcp-ai/](https://apis.io/providers/trendsmcp-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- trendsmcp-ai Trends API — Trend data operations
+
+_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://trendsmcp.ai/)
+- [Documentation](https://www.trendsmcp.ai/docs)
+- [Getting started](https://www.trendsmcp.ai/docs/mcp)
+- [API reference](https://www.trendsmcp.ai/docs/api)
+- [Pricing](https://www.trendsmcp.ai/pricing)
+- [Blog](https://www.trendsmcp.ai/blog)
+- [Terms of service](https://www.trendsmcp.ai/terms)
+- [Privacy policy](https://www.trendsmcp.ai/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/trendsmcp-ai/](https://apis.io/providers/trendsmcp-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for trendsmcp-ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/trendsmcp-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).

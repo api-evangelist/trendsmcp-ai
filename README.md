@@ -74,9 +74,65 @@ Everything profiled for trendsmcp-ai is published on APIs.io rather than in this
 
 ### APIs (1)
 
-- trendsmcp-ai Trends API — Trend data operations
+- [trendsmcp-ai Trends API](https://apis.io/apis/trendsmcp-ai/trendsmcp-ai-trends-api/) — Trend data operations
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Trendsmcp Ai Agentic Access](https://apis.io/agentic-access/trendsmcp-ai/trendsmcp-ai-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetContextRequest](https://apis.io/schemas/trendsmcp-ai/trendsmcp-ai-get-context-request/)
+- [GetGrowthRequest](https://apis.io/schemas/trendsmcp-ai/trendsmcp-ai-get-growth-request/)
+- [GetTimeSeriesRequest](https://apis.io/schemas/trendsmcp-ai/trendsmcp-ai-get-time-series-request/)
+- [GetTopPostsRequest](https://apis.io/schemas/trendsmcp-ai/trendsmcp-ai-get-top-posts-request/)
+- [GetTopTrendsRequest](https://apis.io/schemas/trendsmcp-ai/trendsmcp-ai-get-top-trends-request/)
+- [TopTrendsResponse](https://apis.io/schemas/trendsmcp-ai/trendsmcp-ai-top-trends-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Trendsmcp Ai Context](https://apis.io/jsonld/trendsmcp-ai/trendsmcp-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [trendsmcp-ai API Rules](https://apis.io/rules/trendsmcp-ai/trendsmcp-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Trendsmcp Ai Authentication](https://apis.io/security/trendsmcp-ai/trendsmcp-ai-authentication/)
+- [Trendsmcp Ai Domain Security](https://apis.io/security/trendsmcp-ai/trendsmcp-ai-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Trendsmcp Ai Scopes](https://apis.io/scopes/trendsmcp-ai/trendsmcp-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Trendsmcp Ai Plans Pricing](https://apis.io/plans/trendsmcp-ai/trendsmcp-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Trendsmcp Ai Rate Limits](https://apis.io/rate-limits/trendsmcp-ai/trendsmcp-ai-rate-limits/)
 
 ## Where to find this API
 
@@ -93,7 +149,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/trendsmcp-ai/](https://apis.io/providers/trendsmcp-ai/).
+**Kin Score 57.4** — strong · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 63.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 54.8 |
+| Access clarity | 60.0 |
+
+**Agent readiness 51.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/trendsmcp-ai/](https://apis.io/providers/trendsmcp-ai/).
 
 ## How this profile is made
 
